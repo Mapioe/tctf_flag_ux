@@ -10,7 +10,8 @@
   "permissions": [
     "webRequest",
     "declarativeNetRequest",
-    "activeTab"
+    "activeTab",
+    "notifications"
   ],
   "host_permissions": [
     "http://*/*",
