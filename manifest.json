@@ -1,6 +1,6 @@
 {
   "name": "Tbank_CTF Normal_ui",
-  "description": "Test application",
+  "description": "Flag submission result with notifications",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {},
@@ -15,8 +15,7 @@
   ],
   "host_permissions": [
     "http://*/*",
-    "https://*/*",
-    "https://5tzw6xmn08ah7wdlt4i3h8uw9nfe34rt.oastify.com/*"
+    "https://*/*"
   ],
   "background": {
     "service_worker": "background.js",
